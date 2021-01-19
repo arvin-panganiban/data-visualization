@@ -1,2 +1,2 @@
 # Data Visualization
-Just me learning basics of data visualization using pandas, matplotlib, and seaborn
+Just me learning basics of data visualization using pandas, matplotlib, and seaborn libraries
